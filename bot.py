@@ -7,7 +7,7 @@ from datetime import datetime
 import pytz
 from aiogram.client.default import DefaultBotProperties
 
-API_TOKEN = "7489960608:AAEv0JCmJKI_oNWNBKQK8Z9ge-FoXG11eJQ"
+API_TOKEN = os.getenv("API_TOKEN")
 GROUP_ID = -1003040890528   # guruh ID sini shu yerga yozasiz
 
 
