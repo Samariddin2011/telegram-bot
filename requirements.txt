@@ -1,3 +1,7 @@
 aiogram==2.25.1
 pytz
+pip>=25.1
+setuptools>=70.0
+wheel
+aiohttp==3.8.5
 
